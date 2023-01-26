@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css?family=Russo+One:300,400&display=swap");
+
+.logo {
+    position: relative;
+    display: inline;
+    border-collapse: collapse;
+    left: 41%;
+    border-radius: 15px;
+    z-index: 11;
+}
+.menu {
+    display: inline;
+    position: absolute;
+    background-color: yellow;
+    border-radius: 5px;
+    border: 30px solid lightblue;
+    font-family: Russo One;
+    color: darkblue;
+    font-weight: bold;
+    z-index: 10;
+    }
+.about {
+    display: inline;
+    position: absolute;
+    background-color: yellow;
+    border-radius: 5px;
+    border: 30px solid lightblue;
+    font-family: Russo One;
+    color: darkblue;
+    font-weight: bold;
+    right: 0.1%;
+    z-index: 10;
+}
+.photo1 {
+    position: absolute;
+    z-index: 1;
+    top: 0.000000000000001%; 
+}
+.title {
+    font-family: monospace bold;
+    position: relative;
+    text-align: center;
+}
+.text1 {
+    position: relative;
+    width: 650px;
+    text-align: center;
+    left: 28%;
+}
+.photo2 {
+    display: inline;
+    position: relative;
+    left: 25%;
+}
+.text2 {
+    position: relative;
+    width: 650px;
+    left: 28%;
+}
+.photo3 {
+    display: inline;
+    position: relative;
+    left: 25%;
+}
+.m {
+    text-align: center;
+    font-family: Russo One;
+    background-color: lightgreen;
+    border-radius: 5px;
+    border: 30px solid purple;
+
+}
+table {
+    border: solid black;
+}
